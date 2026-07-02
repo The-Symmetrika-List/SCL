@@ -5,23 +5,15 @@
         "link": "https://www.youtube.com/@deniszsm"
     },
     {
-        "role": "admin",
-        "name": "List Admin",
-        "link": "https://www.youtube.com/@Prometheus_Alt"
+        "role": "owner",
+        "name": "MayXaX",
+        "link": "https://www.youtube.com/@deniszsm"
     },
-    {
-        "role": "helper",
-        "name": "List Helper",
-        "link": "https://www.youtube.com/@Prometheus_Alt"
-    },
-    {
-        "role": "trial",
-        "name": "Trial List Helper",
-        "link": "https://www.youtube.com/@Prometheus_Alt"
-    },
-    {
-        "role": "dev",
-        "name": "List Coder",
-        "link": "https://www.youtube.com/@Prometheus_Alt"
+        {
+        "role": "owner",
+        "name": "yogurt11",
+        "link": "https://www.youtube.com/@deniszsm"
     }
+    
+
 ]

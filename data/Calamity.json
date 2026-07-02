@@ -18,12 +18,18 @@
             "link": "https://www.youtube.com/watch?v=VMssgYtvka8",
             "percent": 100,
             "hz": "720"
-        }
+        },
         {
             "user": "Rkx",
             "link": "https://youtube.com/shorts/OfrOsxePRDc?feature=share",
             "percent": 100,
             "hz": "idk"
+        },
+        {
+            "user": "Paradox",
+            "link": "https://youtu.be/ptut9nscWh8",
+            "percent": 100,
+            "hz": "240"
         }
     ]
 }

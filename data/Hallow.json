@@ -7,5 +7,11 @@
     "verification": "https://youtu.be/SDxKakA3bAE",
     "percentToQualify": "100",
     "records": [
+        {
+            "user": "LukeGammoneese",
+            "link": "https://www.youtube.com/watch?v=zSHgPga3qF8",
+            "percent": 100,
+            "hz": "240"
+        }
     ]
 }

@@ -7,5 +7,11 @@
     "verification": "https://www.youtube.com/watch?v=M-ramZ5hcSo",
     "percentToQualify": "100",
     "records": [
+                        {
+            "user": "Paradox",
+            "link": "https://youtu.be/8Ze9KJtUoWc",
+            "percent": 100,
+            "hz": "240"
+        }
     ]
 }

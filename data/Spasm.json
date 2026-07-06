@@ -7,5 +7,11 @@
     "verification": "https://youtu.be/Paw8XMZ8YQk",
     "percentToQualify": "100",
     "records": [
+                                {
+            "user": "Snale Lorde",
+            "link": "https://www.youtube.com/watch?v=6sxRszhlh6g",
+            "percent": 100,
+            "hz": "720"
+        }
     ]
 }

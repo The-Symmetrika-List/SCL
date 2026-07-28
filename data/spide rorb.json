@@ -7,5 +7,11 @@
     "verification": "https://youtu.be/p8P4-Hpvr9w",
     "percentToQualify": "100",
     "records": [
+                {
+            "user": "Ewen",
+            "link": "https://youtu.be/WY4MMkTuC0Y",
+            "percent": 100,
+            "hz": "CBS"
+        }
     ]
 }
